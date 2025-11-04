@@ -1,0 +1,11 @@
+digraph BarabasiAlbert_nodes_500_GradoMax_2_DFS_R_5 {
+5;
+1;
+0;
+2;
+3;
+2 -> 3;
+0 -> 2;
+1 -> 0;
+5 -> 1;
+}
